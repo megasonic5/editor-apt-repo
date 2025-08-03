@@ -1,0 +1,7 @@
+Origin: Roberto
+Label: megasonic5 calculator repo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: A simple calculator
